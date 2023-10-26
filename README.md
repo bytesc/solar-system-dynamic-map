@@ -2,6 +2,12 @@
 
 ✨**基于 C++(MSVC) 和 OpenGL 的太阳系（太阳，地球，月球）系统动态图绘制**✨ 3维视角，坐标变换，旋转，动态刷新，光照，透视，投影。📌包含可执行文件，环境配置指南。
 
+[个人网站：www.bytesc.top](http://www.bytesc.top) 
+
+[个人博客：blog.bytesc.top](http://blog.bytesc.top)
+
+🔔 如有项目相关问题，欢迎在本项目提出`issue`，我一般会在 24 小时内回复。
+
 ## 页面展示
 ![](./readme_img/img1.png)
 ![](./readme_img/img2.png)
