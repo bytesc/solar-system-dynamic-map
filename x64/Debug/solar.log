@@ -1,0 +1,11 @@
+﻿  glad.c
+  solar.cpp
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(28,36): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(28,28): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(38,42): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(38,34): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(43,35): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(43,28): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(51,34): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\ECUST\5semester\computer_graphics\homework1026\solar\solar.cpp(51,27): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+  solar.vcxproj -> D:\ECUST\5semester\computer_graphics\homework1026\solar\x64\Debug\solar.exe
