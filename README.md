@@ -22,9 +22,17 @@
     * `glfw-3.3.8.bin.WIN64`
     * `glutdlls37beta`
 
+### 不配置环境
+
+如果仅运行可执行文件，不修改和调试，无需配置环境。
+
+可执行文件在项目目录下的 `x64/ebug/solar.exe` 鼠标双击即可。
+
+### 环境配置
+
 配置方法参考这篇我转载的知乎文章 [VS2022的openGL环境搭建（完整篇）](https://zhuanlan.zhihu.com/p/486459964)
 
-`Visual Studio 2022` 配置 `OpenGL` 所需相关资源在 `conf` 文件夹内。
+`Visual Studio 2022` 配置 `OpenGL` 所需相关资源和指南（转载非原创）在 `conf` 文件夹内。
 
 ## 项目结构
 
@@ -65,10 +73,10 @@
 ## 运行方法
 
 ### 运行
-鼠标双击打开 `x64/ebug/solar.exe`
+运行可执行文件无需配置环境，鼠标双击打开 `x64/ebug/solar.exe`
 
 ### 调试
-用 `Visual Studio 2022` 打开 `solar.sln`，源码文件为 `solar.cpp`
+先按照上文配置环境，然后用 `Visual Studio 2022` 打开 `solar.sln`，源码文件为 `solar.cpp`
 
 
 # 开源许可证
